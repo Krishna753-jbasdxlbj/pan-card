@@ -1,0 +1,12 @@
+names:
+- Pan
+- PanNo
+- Name
+- Father_Name
+- DOB
+- Signature
+nc: 6
+path: C:\pan card\datasets
+test: test/images
+train: train/images
+val: val/images

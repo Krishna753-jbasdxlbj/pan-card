@@ -1,0 +1,9 @@
+[
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P248.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.5150389671325684,
+        "bbox": [
+          

@@ -1,0 +1,6 @@
+﻿path: C:\pan card\datasets
+train: train/images
+val: val/images
+test: test/images
+nc: 6
+names: ['Pan', 'PanNo', 'Name', 'Father_Name', 'DOB', 'Signature']

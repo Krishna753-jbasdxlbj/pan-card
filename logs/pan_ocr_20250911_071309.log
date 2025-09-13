@@ -1,0 +1,5 @@
+2025-09-11 07:13:09,480 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-09-11 07:13:15,378 - INFO - Dataset configuration created at C:\pan card\configs\pan_card_config.yaml
+2025-09-11 07:13:15,378 - INFO - Starting training with 50 epochs...
+2025-09-11 07:13:15,862 - ERROR - Training failed: Dataset 'C://pan card/configs/pan_card_config.yaml' error  Dataset 'C://pan card/configs/pan_card_config.yaml' images not found, missing path 'C:\pan card\dataset\val\images'
+Note dataset download directory is 'C:\Users\Admin\OneDrive\Documents\datasets'. You can update this in 'C:\Users\Admin\AppData\Roaming\Ultralytics\settings.json'

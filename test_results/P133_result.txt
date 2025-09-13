@@ -1,0 +1,7 @@
+PAN Card OCR Results
+==============================
+Pan: NCOME TAX DEPARTMENT GOVT: OF INDIA Permanent Account Number Card DPSPB6575P 77 / Name JANA PARMESHWAR BADUGE MACHHINDRA MORE 0 T 06/12/1998 8
+Signature: 
+Name: JANA PARMESHWAR BADUGE
+DOB: 06/12/1998
+PanNo: DPSPB6575P

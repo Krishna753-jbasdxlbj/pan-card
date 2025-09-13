@@ -1,0 +1,303 @@
+[
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P248.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.5150389671325684,
+        "bbox": [
+          14,
+          147,
+          3040,
+          3819
+        ],
+        "text": "2008498 ("
+      }
+    ],
+    "extracted_text": {
+      "Pan": "2008498 ("
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P249.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9948222637176514,
+        "bbox": [
+          1,
+          17,
+          719,
+          453
+        ],
+        "text": "ATT ONETAX DEPARTMENT GOVT OF INDIA UNDLIK ARJUN GHUGE 41/02/1983 ARGPG37260"
+      },
+      {
+        "class": "Signature",
+        "confidence": 0.8127291202545166,
+        "bbox": [
+          29,
+          363,
+          255,
+          429
+        ],
+        "text": ""
+      }
+    ],
+    "extracted_text": {
+      "Pan": "ATT ONETAX DEPARTMENT GOVT OF INDIA UNDLIK ARJUN GHUGE 41/02/1983 ARGPG37260",
+      "Signature": ""
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P250.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9972406625747681,
+        "bbox": [
+          0,
+          29,
+          3007,
+          1750
+        ],
+        "text": "NCOME TAX DEPARTMENT HRT GOVT OF INDIA Permanent Account Number Card EJZPK7602E"
+      },
+      {
+        "class": "PanNo",
+        "confidence": 0.5186032056808472,
+        "bbox": [
+          1132,
+          727,
+          1786,
+          848
+        ],
+        "text": "EJZPK7602E"
+      }
+    ],
+    "extracted_text": {
+      "Pan": "NCOME TAX DEPARTMENT HRT GOVT OF INDIA Permanent Account Number Card EJZPK7602E",
+      "PanNo": "EJZPK7602E"
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P251.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9996815919876099,
+        "bbox": [
+          24,
+          89,
+          2615,
+          1673
+        ],
+        "text": "HRT NNCOME TAX DEPARTMENT GOVT OF INDIA Permanent Account Number Card EUZPP317OD SAKINA INUS PATHAN INUS PATHAN Date of Birth 01/01/1991 54072 Signature"
+      },
+      {
+        "class": "PanNo",
+        "confidence": 0.8171084523200989,
+        "bbox": [
+          897,
+          652,
+          1442,
+          753
+        ],
+        "text": "EUZPP3IZOD"
+      },
+      {
+        "class": "DOB",
+        "confidence": 0.7975846529006958,
+        "bbox": [
+          99,
+          1495,
+          578,
+          1600
+        ],
+        "text": "01/01/1991"
+      },
+      {
+        "class": "Signature",
+        "confidence": 0.7810680866241455,
+        "bbox": [
+          1330,
+          1363,
+          1782,
+          1500
+        ],
+        "text": ""
+      },
+      {
+        "class": "Father_Name",
+        "confidence": 0.6562239527702332,
+        "bbox": [
+          118,
+          1225,
+          735,
+          1327
+        ],
+        "text": "INUS PATHAN"
+      },
+      {
+        "class": "Name",
+        "confidence": 0.5949259996414185,
+        "bbox": [
+          121,
+          986,
+          1106,
+          1081
+        ],
+        "text": "SAKINA INUS PATHAN"
+      }
+    ],
+    "extracted_text": {
+      "Pan": "HRT NNCOME TAX DEPARTMENT GOVT OF INDIA Permanent Account Number Card EUZPP317OD SAKINA INUS PATHAN INUS PATHAN Date of Birth 01/01/1991 54072 Signature",
+      "PanNo": "EUZPP3IZOD",
+      "DOB": "01/01/1991",
+      "Signature": "",
+      "Father_Name": "INUS PATHAN",
+      "Name": "SAKINA INUS PATHAN"
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P252.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9995211362838745,
+        "bbox": [
+          23,
+          46,
+          2204,
+          1436
+        ],
+        "text": "HRT INCOME TAX DEPARTMENT GOVT: OF INDIA KATARE SANGITA RAKHMAJI VISHWANATH BHANUDAS GORE 01/12/1973 Permanent Account Number BRTPK3443G 1 Signature"
+      },
+      {
+        "class": "Signature",
+        "confidence": 0.8300853967666626,
+        "bbox": [
+          36,
+          1103,
+          487,
+          1293
+        ],
+        "text": ""
+      },
+      {
+        "class": "PanNo",
+        "confidence": 0.6750389933586121,
+        "bbox": [
+          60,
+          974,
+          597,
+          1064
+        ],
+        "text": "BRTPK3443G"
+      }
+    ],
+    "extracted_text": {
+      "Pan": "HRT INCOME TAX DEPARTMENT GOVT: OF INDIA KATARE SANGITA RAKHMAJI VISHWANATH BHANUDAS GORE 01/12/1973 Permanent Account Number BRTPK3443G 1 Signature",
+      "Signature": "",
+      "PanNo": "BRTPK3443G"
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P253.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9994884729385376,
+        "bbox": [
+          5,
+          14,
+          706,
+          452
+        ],
+        "text": "TTT INCOME TAX DEPARTMENT GOVT OF INDIA RASKAR LAMBODAR MANOJ MANOJ KRUSHNAJI RASKAR 25/05/1998 Permanent Account Number CGOPR6531H Signature"
+      },
+      {
+        "class": "Signature",
+        "confidence": 0.9159359931945801,
+        "bbox": [
+          42,
+          355,
+          158,
+          411
+        ],
+        "text": ""
+      },
+      {
+        "class": "PanNo",
+        "confidence": 0.8900014162063599,
+        "bbox": [
+          28,
+          310,
+          206,
+          339
+        ],
+        "text": "CGOPR6531H"
+      },
+      {
+        "class": "DOB",
+        "confidence": 0.8729366064071655,
+        "bbox": [
+          28,
+          241,
+          164,
+          269
+        ],
+        "text": "25/05/1998"
+      },
+      {
+        "class": "Name",
+        "confidence": 0.625849723815918,
+        "bbox": [
+          28,
+          128,
+          353,
+          156
+        ],
+        "text": "RASKAR LAMBODAR MANOS"
+      },
+      {
+        "class": "Father_Name",
+        "confidence": 0.5535553693771362,
+        "bbox": [
+          26,
+          186,
+          359,
+          211
+        ],
+        "text": "MANOJ KRUSHNAJI RASKAR"
+      }
+    ],
+    "extracted_text": {
+      "Pan": "TTT INCOME TAX DEPARTMENT GOVT OF INDIA RASKAR LAMBODAR MANOJ MANOJ KRUSHNAJI RASKAR 25/05/1998 Permanent Account Number CGOPR6531H Signature",
+      "Signature": "",
+      "PanNo": "CGOPR6531H",
+      "DOB": "25/05/1998",
+      "Name": "RASKAR LAMBODAR MANOS",
+      "Father_Name": "MANOJ KRUSHNAJI RASKAR"
+    }
+  },
+  {
+    "image_path": "C:\\pan card\\datasets\\test\\images\\P254.jpg",
+    "detections": [
+      {
+        "class": "Pan",
+        "confidence": 0.9992979764938354,
+        "bbox": [
+          0,
+          52,
+          1093,
+          731
+        ],
+        "text": "INCOME TAX DEPARTMENT GOVT OFINDIA Dudhal Rohan Eknath Dxfe 20-03-2003 14241"
+      }
+    ],
+    "extracted_text": {
+      "Pan": "INCOME TAX DEPARTMENT GOVT OFINDIA Dudhal Rohan Eknath Dxfe 20-03-2003 14241"
+    }
+  }
+]

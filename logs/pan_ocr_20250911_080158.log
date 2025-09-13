@@ -1,0 +1,2 @@
+2025-09-11 08:01:58,561 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-09-11 08:02:01,094 - INFO - Model loaded from C:\pan card\weights\best_pan_card_model.pt

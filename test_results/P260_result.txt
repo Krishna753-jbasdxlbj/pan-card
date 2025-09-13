@@ -1,0 +1,7 @@
+PAN Card OCR Results
+==============================
+Pan: "TRT INCOME TAX DEPARTMENT GOVT OF INDIA Permanent Account Number Card EEXPBOO7SM Name BHAWAR SAKSHI DIPAK Father's Name DIPAK BHAWAR 10122018 Date of Birth 30/05/2000 &7T8 / Signature
+DOB: 30/05/2000
+Signature: 
+Name: BHAWAR SAKSHI DIPAK
+PanNo: EEXPBOO75M
